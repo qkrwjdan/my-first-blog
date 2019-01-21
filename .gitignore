@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+Django2_1
+db.sqlite3
+/static
+.DS_Store
+.ipynb_checkpoints
+*.ipynb
